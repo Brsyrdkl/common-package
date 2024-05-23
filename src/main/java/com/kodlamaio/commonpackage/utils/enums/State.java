@@ -4,4 +4,5 @@ public enum State {
     Available,
     Rented,
     Maintenance
+
 }
